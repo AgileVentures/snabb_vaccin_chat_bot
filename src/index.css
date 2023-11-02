@@ -11,13 +11,21 @@
 }
 
 html,
-body, textarea {
+body,
+textarea {
   margin: 0;
   padding: 0;
   font-family: "Poppins";
 }
 textarea {
   font-size: 16px;
+}
+
+/* Ta bort blå ram när textarea är i fokus */
+textarea:focus {
+  outline: none;
+  /* Lägg till en annan visuell indikator för fokus om du vill, t.ex. en skugga */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 }
 
 main {
@@ -33,12 +41,11 @@ main {
 /* chatbot elements */
 
 .chatbot-container {
-  background-color: #fff;
+  background-color: #f0f1f3;
   width: 360px;
-  height: 700px; /* Fast höjd för chatbot-container */
+  min-height: 380px;
   border-radius: var(--border-rad-lg);
   padding: 1em;
-  overflow: hidden; /* Förhindrar att huvudbehållaren skrollar */
 }
 
 .chatbot-container > * {
@@ -58,7 +65,7 @@ main {
 
 .chatbot-conversation-container {
   position: relative;
-  height: 600px; /* Fast höjd för chatbot-conversation-container */
+  height: 250px;
   overflow-y: scroll;
   margin: 1em 0;
 }
@@ -79,7 +86,7 @@ main {
   min-width: 90%;
   border-radius: var(--border-rad-lg);
   font-size: 1.07em;
-  border: 1px solid #586e88; 
+  border: 1px solid #586e88;
 }
 
 .speech:first-child {
@@ -91,7 +98,6 @@ main {
   border-top-left-radius: 0;
   margin: 1.2em 1em 0 0;
   color: #f1f1f2;
-  
 }
 
 .speech-human {
@@ -113,7 +119,8 @@ button {
   padding: 1em;
 }
 
-input[type="text"], textarea {
+input[type="text"],
+textarea {
   color: var(--text-color);
   width: 100%;
   border-right: 0;
@@ -140,9 +147,15 @@ button {
 }
 
 @keyframes dotPulse {
-  0% { transform: scale(0.8); }
-  50% { transform: scale(1); }
-  100% { transform: scale(0.8); }
+  0% {
+    transform: scale(0.8);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0.8);
+  }
 }
 
 .loading-dots {
@@ -178,7 +191,7 @@ button {
 }
 
 .fade-in {
-  animation: fadeIn 0.5s forwards; 
+  animation: fadeIn 0.5s forwards;
 }
 
 .ai-notice {
@@ -186,17 +199,36 @@ button {
   margin-left: 5px;
   padding-top: 0;
   font-size: 0.6em;
-  color: var(--text-color); 
+  color: var(--text-color);
 }
 
-@media only screen and (max-width: 600px) { /* This is a common breakpoint for mobile devices */
+@media only screen and (max-width: 600px) {
+  /* This is a common breakpoint for mobile devices */
   body {
     overflow: hidden;
   }
 
   .chatbot-container {
-      width: calc(100% - 20px); /* Subtracting 20px in total for left and right margins (10px each) */
-      height: calc(100vh - 20px); /* Subtracting 20px in total for top and bottom margins (10px each) */
-      margin: 10px;
+    width: calc(
+      100% - 20px
+    ); /* Subtracting 20px in total for left and right margins (10px each) */
+    height: calc(
+      100vh - 20px
+    ); /* Subtracting 20px in total for top and bottom margins (10px each) */
+    margin: 10px;
+    display: flex; /* Gör detta till en flex-container */
+    flex-direction: column; /* Ordna barnen vertikalt */
+  }
+
+  .chatbot-conversation-container {
+    flex: 1; /* Låt denna ta upp all tillgänglig utrymme */
+    overflow-y: auto; /* Lägg till detta om du vill ha skrollning när innehållet överstiger behållarens höjd */
+  }
+
+  /* Åtgärda storlek på textarea i Safari */
+  textarea {
+    padding: 10px;
+    -webkit-appearance: none; /* Tar bort standardstil i Safari */
+    appearance: none; /* Tar bort standardstil i andra webbläsare */
   }
 }
