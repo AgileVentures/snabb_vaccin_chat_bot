@@ -16,6 +16,9 @@ body, textarea {
   padding: 0;
   font-family: "Poppins";
 }
+textarea {
+  font-size: 16px;
+}
 
 main {
   background-color: var(--snabb-vaccin-green);
@@ -188,6 +191,10 @@ button {
 }
 
 @media only screen and (max-width: 600px) { /* This is a common breakpoint for mobile devices */
+  body {
+    overflow: hidden;
+  }
+
   .chatbot-container {
       width: calc(100% - 20px); /* Subtracting 20px in total for left and right margins (10px each) */
       height: calc(100vh - 20px); /* Subtracting 20px in total for top and bottom margins (10px each) */
