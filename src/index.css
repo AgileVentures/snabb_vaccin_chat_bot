@@ -35,11 +35,10 @@ main {
 .chatbot-container {
   background-color: #fff;
   width: 360px;
-  min-height: 580px;
+  height: 700px; /* Fast höjd för chatbot-container */
   border-radius: var(--border-rad-lg);
   padding: 1em;
-  display: flex;          /* Make it a flex container */
-  flex-direction: column; /* Set the direction to column */
+  overflow: hidden; /* Förhindrar att huvudbehållaren skrollar */
 }
 
 .chatbot-container > * {
@@ -59,7 +58,7 @@ main {
 
 .chatbot-conversation-container {
   position: relative;
-  flex-grow: 1;           /* Allow it to grow and take up available space */
+  height: 600px; /* Fast höjd för chatbot-conversation-container */
   overflow-y: scroll;
   margin: 1em 0;
 }

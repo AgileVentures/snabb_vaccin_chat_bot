@@ -9,9 +9,9 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 try {
-  const sbApiKey = process.env.SUPABASE_API_KEY;
-  const sbUrl = process.env.SUPABASE_URL_CHATBOT;
-  const openAIApiKey = process.env.OPEN_AI_API_KEY;
+  const sbApiKey = process.env.VITE_SUPABASE_API_KEY;
+  const sbUrl = process.env.VITE_SUPABASE_URL_CHATBOT;
+  const openAIApiKey = process.env.VITE_OPEN_AI_API_KEY;
 
   const client = createClient(sbUrl, sbApiKey);
   const currentDir = path.dirname(new URL(import.meta.url).pathname);
@@ -19,9 +19,9 @@ try {
   const text = await fs.readFile(filePath, "utf-8");
 
   const splitter = new RecursiveCharacterTextSplitter({
-    chunkSize: 500,
+    chunkSize: 400,
     separators: ["\n\n", "\n", " ", ""],
-    chunkOverlap: 50,
+    chunkOverlap: 40,
   });
   const output = await splitter.createDocuments([text]);
   const resp = await SupabaseVectorStore.fromDocuments(
