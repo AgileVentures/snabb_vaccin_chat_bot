@@ -32,9 +32,11 @@ main {
 .chatbot-container {
   background-color: #fff;
   width: 360px;
-  min-height: 380px;
+  min-height: 580px;
   border-radius: var(--border-rad-lg);
   padding: 1em;
+  display: flex;          /* Make it a flex container */
+  flex-direction: column; /* Set the direction to column */
 }
 
 .chatbot-container > * {
@@ -54,7 +56,7 @@ main {
 
 .chatbot-conversation-container {
   position: relative;
-  height: 250px;
+  flex-grow: 1;           /* Allow it to grow and take up available space */
   overflow-y: scroll;
   margin: 1em 0;
 }

@@ -17,6 +17,7 @@ const Chatbot = () => {
   const [convHistory, setConvHistory] = useState([]);
   const [userInput, setUserInput] = useState("");
   const [isSubmitting, setIsSubmitting] = useState(false);
+  const chatbotContainerRef = useRef(null);
   const chatContainerRef = useRef(null);
   const userInputRef = useRef(null);
 
@@ -61,6 +62,32 @@ answer: `;
     },
     answerChain,
   ]);
+
+  useEffect(() => {
+    const setVHHeight = () => {
+      if (window.innerWidth <= 600) {
+        // Check if the width is 600px or less
+        const vh = window.innerHeight - 20; // Subtracting 20px for the margin
+        if (chatbotContainerRef.current) {
+          chatbotContainerRef.current.style.height = `${vh}px`;
+        }
+      } else if (chatbotContainerRef.current) {
+        // Reset to default height for non-mobile devices
+        chatbotContainerRef.current.style.height = "auto";
+      }
+    };
+
+    // Run the function to set the initial value
+    setVHHeight();
+
+    // Add an event listener to update the value when the window is resized
+    window.addEventListener("resize", setVHHeight);
+
+    // Cleanup: remove the event listener when the component is unmounted
+    return () => {
+      window.removeEventListener("resize", setVHHeight);
+    };
+  }, []);
 
   useEffect(() => {
     const chatbotConversation = chatContainerRef.current;
@@ -109,7 +136,7 @@ answer: `;
 
   return (
     <main>
-      <section className="chatbot-container">
+      <section className="chatbot-container" ref={chatbotContainerRef}>
         <div className="chatbot-header">
           <img src={logo} className="logo" />
           <p className="sub-heading">Ställ frågor om TBE och vaccin...</p>
