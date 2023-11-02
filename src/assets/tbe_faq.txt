@@ -5,6 +5,7 @@ TBE är en engelsk förkortning för tick borne encephalitis, fästingburen hjä
 Hur länge har man känt till TBE?
 TBE har varit känt sen 1930-talet och de första TBE-fallen i Sverige upptäcktes på 1950-talet.
 
+
 Vad orsakar TBE?
 TBE orsakas av TBE-virus, som hör till familjen flavivirus. Det finns tre olika typer av TBE-virus: en europeisk eller västlig typ, en sibirisk typ och en Fjärran Östern typ. Det är endast den europeiska typen som finns i Sverige.
 
@@ -95,8 +96,6 @@ Fästingar är aktiva när temperaturen under några dagar stiger över +4–5 �
 
 Hur kan man förebygga fästingbett?
 Det är viktigt att följa råden om hur man ska skydda sig mot fästingbett och ta bort fästingar. Mygg-/fästingmedel kan användas, men ger inget tillförlitligt skydd. Fästingar trivas i gräs- och buskvegetation, särskilt där det är fuktigt. För att minska risken att bli fästingbiten kan man:
-
-
 * Kontrollera huden och kläderna regelbundet för att upptäcka och ta bort eventuella fästingar.
 * Efter vistelse i fästingområde inspektera hela sin kropp.
 * Hos barn sätter sig fästingarna ofta på huvudet, speciellt vid öronen och i hårfästet.
@@ -107,11 +106,7 @@ Om du blir biten av en fästing är det viktigt att ta bort fästingen så snart
 
 
 Ta bort fästingen: Använd en finspetsig pincett eller en fästingborttagare. Ta tag om fästingen så nära huden som möjligt och dra rakt ut. Försök se till så att hela fästingen följer med.
-
-
 Om delar blir kvar: Om delar av fästingens käkparti blir kvar i huden kan du låta dem vara. Kroppen stöter oftast själv bort resterna.
-
-
 Kontrollera huden: Efter att du har tagit bort fästingen, håll koll på huden där du blev biten. Om en påtaglig rodnad uppträder inom några veckor eller om du får andra symtom som feber, huvudvärk eller känner dig sjuk på annat sätt, bör du söka läkare.
 
 
@@ -120,8 +115,6 @@ Informationen är uppdaterad den 7 mars 2022
 
 
 Hur tar jag bort en fästing?
-
-
 1. Använd en finspetsig pincett eller en fästingborttagare när du tar bort fästingen.
 2. Ta tag om fästingens mundelar så nära huden som möjligt.
 3. Dra försiktigt rakt ut.
@@ -157,8 +150,6 @@ Det vanligaste tecknet på en borreliainfektion är att du vid platsen för fäs
 
 Hur kan jag skydda mig mot fästingar?
 Du kan skydda dig genom att bära täckande klädsel – långärmad tröja, långbyxor, strumpor och heltäckande skor, helst stövlar. Noggrant leta efter fästingar på kroppen efter att du har vistats ute. Det hjälper att minska risken att få borrelia, då bakterien överförs ca 24 timmar efter bettet. Vaccinera dig mot TBE. TBE-viruset överförs direkt vid bettet och vaccination rekommenderas när man vistas i naturen i riskområden.
-
-
 
 
 När kommer vaccinationsbussen nära mig?
