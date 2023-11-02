@@ -1,0 +1,181 @@
+﻿Vad är TBE?
+TBE är en engelsk förkortning för tick borne encephalitis, fästingburen hjärninflammation. TBE orsakas av ett virus och är en zoonos, det vill säga en sjukdom som kan spridas mellan djur och människor. Smittan överförs till människor huvudsakligen via fästingbett.
+
+
+Hur länge har man känt till TBE?
+TBE har varit känt sen 1930-talet och de första TBE-fallen i Sverige upptäcktes på 1950-talet.
+
+Vad orsakar TBE?
+TBE orsakas av TBE-virus, som hör till familjen flavivirus. Det finns tre olika typer av TBE-virus: en europeisk eller västlig typ, en sibirisk typ och en Fjärran Östern typ. Det är endast den europeiska typen som finns i Sverige.
+
+
+Hur smittar TBE?
+TBE-virus sprider sig framför allt via bett av Ixodes-fästingar. Viruset finns i fästingens spottkörtlar och kan därmed snabbt överföras vid ett bett. Risken för överföring av TBE-virus till människa, då en smittad fästing suger blod, är inte kartlagd i detalj. Den varierar sannolikt med ett flertal faktorer som virusmängd och blodsugningstid.
+
+
+Kan TBE smitta på andra sätt än via fästingar?
+TBE smittar inte från person till person och det finns inga kända fall som visar att TBE kan överföras från mamman till fostret under graviditet. Utomlands förekommer att människor smittas av TBE genom opastöriserad mjölk från smittade kor, getter eller får. Några sådana fall har inte rapporterats i Sverige, men det kan inte uteslutas att de förekommit utan att ha upptäckts.
+
+
+Kan man förebygga TBE?
+För TBE finns effektiva vacciner, som kan ges till vuxna och till barn från ett års ålder. Andra sätt att skydda sig mot TBE (och andra fästingburna infektioner som exempelvis borrelia) är att bära kläder med långa ärmar och ben. En fästinggranskning av kroppen en gång per dygn kan vara otillräcklig som skydd mot TBE, eftersom smittan överförs snabbt efter bettet. Däremot kan man genom en granskning hitta fästingar som fortfarande kryper omkring på kroppen och hinna avlägsna dem innan de biter sig fast. Myggmedel ger inget tillförlitligt skydd mot fästingbett.
+
+
+Vilka är symtomen på TBE?
+Det tar oftast mellan 4 och 10 dagar från fästingbettet till att man blir sjuk, men inkubationstiden för TBE kan vara ända upp till en månad (2-28 dygn). Ungefär en tredjedel av dem som insjuknar i TBE vet inte om att de blivit fästingbitna före insjuknandet. De flesta som smittas av TBE blir inte alls sjuka. Symtom på TBE utvecklas hos 10─30 procent som får en influensaliknande sjukdomsbild med feber och muskelvärk.
+
+
+Hur diagnosticeras TBE?
+Vid en akut TBE-infektion bildas antikroppar mot TBE-virus, som kan påvisas via blodprov. De olika virustyperna (europeisk, sibirisk respektive Fjärran Östern) kan inte särskiljas med de test som används rutinmässigt.
+
+
+Kan TBE behandlas?
+Det finns inget specifikt läkemedel som är verksamt mot TBE-virus. Behandlingen blir därför symtomatisk, det vill säga inriktas mot patientens symtom.
+
+
+Kan man få upprepade TBE-infektioner?
+Nej, allt talar för att genomgången sjukdom ger ett livslångt skydd (immunitet) mot att insjukna igen.
+
+
+Varför har antalet fall av TBE ökat de senaste decennierna?
+Det beror sannolikt på en kombination av olika faktorer som antalet smittade fästingar och värddjur, vegetationsperiodens längd och vädret.
+
+
+Vad baseras siffrorna över antalet TBE-fall på vår webbplats på?
+TBE är en anmälningspliktig sjukdom enligt smittskyddslagen och alla diagnosticerade fall anmäls av behandlande läkare och diagnosticerade laboratorium till smittskyddsläkaren i regionen och till Folkhälsomyndigheten. Under aktuell statistik på Folkhälsomyndighetens webbplats presenteras från vilka län/regioner TBE-fallen har anmälts. Var fallen sannolikt har smittats framgår av de epidemiologiska årsrapporterna.
+
+
+Var finns TBE?
+Sjukdomen förekommer på flera platser i Sverige och övriga Östersjöländer, i östra och centrala Europa samt i stora delar av Asien. I Sverige förekommer sjukdomen främst i södra och mellersta delen av landet. Smittan har under de senaste decennierna spritt sig även framförallt västerut i landet och bland annat blivit betydligt vanligare kring Vättern och Vänern. Den är vanligast längs ostkusten och minst tre fjärdedelar av alla rapporterade TBE-fall brukar smittas inom Upplands och Södermanlands skärgårdar samt omkring Mälaren. Samtidigt talar data för att det är fler boende i dessa områden som har vaccinerat sig mot TBE än i övriga landet, så den relativa risken för TBE är sannolikt ännu högre i dessa områden, jämfört med andra områden i Sverige. I Stockholms län har till exempel incidensen i den ovaccinerade populationen uppskattats till 8,5-12 TBE-fall/100 000 invånare. Folkhälsomyndigheten har tagit fram underlag om vilka kommuner som har en förhöjd förekomst av TBE. Även i områden där många fall smittas är det bara en liten andel av alla fästingar som bär på TBE-viruset, på sin höjd några få procentenheter. Därför är det liten risk att smittas efter enskilda fästingbett. Det är dessutom betydande skillnader i TBE-förekomst mellan olika områden och olika år.
+
+
+Vilka rekommenderas TBE-vaccination?
+Vaccination brukar rekommenderas till permanent- och sommarboende i områden med många fall av TBE samt till personer som vistas utomhus i sådana områden. Rekommendationen gäller även personer som kommer att vistas mycket i skog och mark i andra länder där smittan finns.
+
+
+Vilka biverkningar kan TBE-vaccinet ha?
+Efter vaccinationen kan det bli rött, ömt och svullet på injektionsstället. En del personer kan även få ont i huvudet och må illa, kräkningar förekommer men är ovanliga. Vissa kan känna en allmän sjukdomskänsla, trötthet eller muskel- och ledvärk. Feber är en vanlig biverkan framför allt bland små barn, särskilt efter den första vaccindosen. Besvären brukar gå över inom några dagar. Allvarligare biverkningar av TBE-vaccin är mycket ovanliga.
+
+
+Skyddar TBE-vaccin mot borrelia?
+Nej, TBE-vaccin skyddar inte mot borreliainfektion och något vaccin mot borrelia finns ännu inte tillgängligt.
+
+
+Hindrar TBE-vaccinet fästingen från att bita?
+Nej, TBE-vaccinet hindrar inte fästingen från att fästa sig på huden. Vaccinet kan bara förebygga den sjukdom som TBE-viruset kan orsaka.
+
+
+Kan man få TBE-vaccin gratis?
+Vaccination mot TBE ingår inte i något nationellt vaccinationsprogram i Sverige, så de allra flesta får bekosta vaccinationerna själva. Enskilda regioner har övervägt eller beslutat att erbjuda TBE-vaccination inom ramen för regionala vaccinationsprogram. Läs mer om vad som gäller i olika regioner hos 1177.
+
+
+Var finns fästingar?
+Fästingar finns främst i lövskog och i högt gräs. De trivs i fuktig, frodig terräng och är mycket känsliga för uttorkning. Typiska områden där fästingar förekommer är lundar, åkerrenar, strandbuskage och höga gräsmarker. I Sverige dominerar den så kallade vanliga fästingen (Ixodes ricinus) som finns i hela Götaland, nästan hela Svealand och även, men i mindre antal, utefter Norrlandskusten. De senaste decennierna har den även börjat sprida sig inåt landet i Norrland, främst utmed de stora älvarna. Det är förmodligen fåglar och vandrande däggdjur som bidragit till denna spridning. Förutom den vanliga fästingen, upptäckte man 2015 en annan fästingart som kan sprida TBE, taigafästingen (även kallade sibirisk fästing, Ixodes persulcatus), i Norrbotten och på öar nordost om Umeå.
+
+
+Vilka djur kan bära på fästingar?
+Det är främst smågnagare som möss och sorkar som är värddjur för fästingar. Andra viltlevande däggdjur, särskilt rådjur och andra hjortdjur, liksom boskap, husdjur och människor, kan också vara värddjur. Fåglar är också viktiga värddjur för fästingar.
+
+
+Kan människor få fästingar från husdjur?
+Ja, katter och hundar kan föra med sig fästingar, som kan krypa över på människor. För att undvika detta bör man kamma djurets päls när det har rört sig i områden med känd fästingförekomst och avliva eventuella fästingar man upptäcker. En blodfylld fästinghona som släpper från hund eller katt kan lägga upp till 2 000 ägg, som alla kan bli en ny blodsugande fästinglarv. Fästingägg och fästingar överlever dock inte länge i torr inomhusmiljö.
+
+
+Hur utvecklas en fästing från ägg till vuxen?
+Fästingen genomgår flera stadier i sin utveckling: från ägg till larv, nymf och därefter vuxen fästing. Totalt lever en fästing i tre till fyra år. Larven ser ut som en fästing men är mindre, ungefär en halv millimeter lång, och har endast sex ben. Nymfen är ca 1 mm och den vuxna fästingen är 3-4 mm lång. För att utvecklas vidare behöver fästingen i varje stadium suga blod, vanligen från fåglar och däggdjur. Den vuxna honan behöver dessutom ett blodmål innan hon kan bli befruktad och lägga ägg, varefter hon dör.
+
+
+Är det farligt med fästingbett?
+Det är vanligt att den som fått ett fästingbett redan samma dag får en mindre rodnad runt bettet, som sedan går över av sig själv. En liten andel fästingar bär på smittämnen, som kan föras över till människa när de biter sig fast. Om TBE-virus skulle överföras får många personer inga besvär alls eller enbart milda symtom. Men 20-30 procent av alla som insjuknar i TBE får allvarliga symtom som hjärnhinne- och hjärninflammation med hög feber, svår huvudvärk, förvirring och emellanåt kramper och förlamningar. Det är därför klokt att minska risken för fästingbett.
+
+
+När är det fästingsäsong?
+Fästingar är aktiva när temperaturen under några dagar stiger över +4–5 ºC. Fästingsäsongen i Sverige brukar räknas från mars till november och är vanligen som mest intensiv från april till mitten av juni. De flesta TBE-fallen insjuknar dock under högsommaren, vilket beror på att det är då människor exponeras som mest för fästingar.
+
+
+Hur kan man förebygga fästingbett?
+Det är viktigt att följa råden om hur man ska skydda sig mot fästingbett och ta bort fästingar. Mygg-/fästingmedel kan användas, men ger inget tillförlitligt skydd. Fästingar trivas i gräs- och buskvegetation, särskilt där det är fuktigt. För att minska risken att bli fästingbiten kan man:
+
+
+* Kontrollera huden och kläderna regelbundet för att upptäcka och ta bort eventuella fästingar.
+* Efter vistelse i fästingområde inspektera hela sin kropp.
+* Hos barn sätter sig fästingarna ofta på huvudet, speciellt vid öronen och i hårfästet.
+
+
+Vad gör jag om jag blir fästingbiten?
+Om du blir biten av en fästing är det viktigt att ta bort fästingen så snart som möjligt. TBE-viruset finns i fästingens spottkörtlar och kan snabbt överföras vid bett. Här är några steg du kan följa:
+
+
+Ta bort fästingen: Använd en finspetsig pincett eller en fästingborttagare. Ta tag om fästingen så nära huden som möjligt och dra rakt ut. Försök se till så att hela fästingen följer med.
+
+
+Om delar blir kvar: Om delar av fästingens käkparti blir kvar i huden kan du låta dem vara. Kroppen stöter oftast själv bort resterna.
+
+
+Kontrollera huden: Efter att du har tagit bort fästingen, håll koll på huden där du blev biten. Om en påtaglig rodnad uppträder inom några veckor eller om du får andra symtom som feber, huvudvärk eller känner dig sjuk på annat sätt, bör du söka läkare.
+
+
+När uppdaterades den här informationen?
+Informationen är uppdaterad den 7 mars 2022
+
+
+Hur tar jag bort en fästing?
+
+
+1. Använd en finspetsig pincett eller en fästingborttagare när du tar bort fästingen.
+2. Ta tag om fästingens mundelar så nära huden som möjligt.
+3. Dra försiktigt rakt ut.
+
+
+Hur kan jag skydda mig mot TBE?
+Idag finns ingen medicin som botar TBE och den behandling som ges syftar till att lindra symptomen. Det är därför det är så viktigt att vaccinera sig mot TBE om man vistas i områden där TBE-smitta förekommer.
+
+
+Vem bör vaccinera sig?
+Bor du eller vistas i något av de områden där TBE förekommer? Då bör du överväga att vaccinera dig mot TBE. Barn över 1 år som vistas i riskområden för TBE rekommenderas också vaccination.
+
+
+Hur ofta ska jag ta en påfyllnadsdos av vaccinet?
+För att behålla ditt skydd behöver du ta en fjärde dos tre år efter tredje dosen och därefter vart femte år. Alternativt vaccinationsschema kan vara aktuellt om du är äldre eller har nedsatt immunförsvar. Rådgör med din vaccinatör.
+
+
+Kan jag vaccinera mig om jag är gravid eller ammar?
+Det finns inte tillräcklig dokumentation om vaccination mot TBE under graviditet för att kunna göra en säker bedömning av riskerna. Det är inte heller känt om TBE-vacciner passerar över till modersmjölk. Under graviditet och amning ska därför vaccination bara göras om det är ytterst angeläget att få skydd mot TBE. Risker och fördelar ska övervägas noga. Prata med din läkare om detta.
+
+
+Kan barn vaccineras mot TBE?
+Barn äldre än ett år kan också vaccineras mot TBE. Inför TBE-säsongen 2013 har Folkhälsomyndigheten tillsammans med smittskyddsenheterna i landet valt att sänka den åldersgräns där man börjar rekommendera vaccin till barn i riskområden från 3 till 1 år. Detta beror på att nya studier på Astrid Lindgrens barnsjukhus i Stockholm visat att även små barn kan drabbas av långvariga symptom som minnesproblem och orkeslöshet, vilket man tidigare inte trott. Dessutom rekommenderar man vaccination från 1 års ålder i andra europeiska länder där TBE förekommer.
+
+
+Kan man vaccinera sig mot borrelia?
+Det går inte att vaccinera sig mot borrelia, men det går att behandla. Antibiotika används framgångsrikt i de flesta fall.
+
+
+Vilka är de vanligaste symptomen vid en borreliainfektion?
+Det vanligaste tecknet på en borreliainfektion är att du vid platsen för fästingbettet ser en expanderande rodnad som är större än fem centimeter i diameter. Den uppkommer 1-4 veckor efter fästingbettet och kan blekna i mitten. Ibland kan man få sjukdomskänsla och eventuellt feber.
+
+
+Hur kan jag skydda mig mot fästingar?
+Du kan skydda dig genom att bära täckande klädsel – långärmad tröja, långbyxor, strumpor och heltäckande skor, helst stövlar. Noggrant leta efter fästingar på kroppen efter att du har vistats ute. Det hjälper att minska risken att få borrelia, då bakterien överförs ca 24 timmar efter bettet. Vaccinera dig mot TBE. TBE-viruset överförs direkt vid bettet och vaccination rekommenderas när man vistas i naturen i riskområden.
+
+
+
+
+När kommer vaccinationsbussen nära mig?
+Våra bussars schema varierar från vecka till vecka. Besök vår hemsida på www.snabbvaccin.se för senaste information. 
+
+
+När är det dags för min nästa dos?
+För att ta reda på när det är dags för din nästa dos TBE-vaccin bör du i första hand kolla om du har kvar ditt vaccinationskort med information om när du tog din senaste dos. Om du inte hittar ditt vaccinationskort kan du kontakta vaccinatören där du tog din senaste vaccination.
+
+
+Bor jag i ett riskområde för TBE?
+TBE sprider sig i Sverige. Statistiken från 2020 visar att smittade har rapporterats från Skåne till Gävleborg. TBE-fall rapporterades i alla landsting utom i Jämtland, Norrbotten och Västernorrland. Likt tidigare år har TBE etablerat sig i allt fler delar av mellansverige samt längs västkusten. Dalarna, Gävleborg, Skåne, Värmland, Västra Götaland och Östergötland är alla regioner där antal smittade förra året var den högsta någonsin.
+
+
+Kan andra vacciner ges samtidigt som vaccin mot covid-19?
+Det går bra att kombinera vaccin mot covid-19 med TBE-vaccination. Låt det bara gå 7 dagar mellan varje dos av de olika vaccinerna.
+
+
+Vad kan jag göra om jag har glömt när jag tog min senaste vaccindos?
+Många upplever att det är svårt att komma ihåg om och när det är dags att fylla på sin TBE-vaccination. Om du är osäker kan du kontakta vaccinatören där du tog din senaste vaccination. Oftast räcker det med att ta en engångsdos, en så kallad “catch-up”, för att komma i fas med vaccinationsschemat.
