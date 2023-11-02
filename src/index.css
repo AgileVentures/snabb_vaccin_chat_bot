@@ -184,3 +184,11 @@ button {
   font-size: 0.6em;
   color: var(--text-color); 
 }
+
+@media only screen and (max-width: 600px) { /* This is a common breakpoint for mobile devices */
+  .chatbot-container {
+      width: calc(100% - 20px); /* Subtracting 20px in total for left and right margins (10px each) */
+      height: calc(100vh - 20px); /* Subtracting 20px in total for top and bottom margins (10px each) */
+      margin: 10px;
+  }
+}
