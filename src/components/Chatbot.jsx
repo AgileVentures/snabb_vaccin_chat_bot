@@ -33,15 +33,21 @@ const Chatbot = () => {
 
   useEffect(() => {
     const chatbotConversation = chatContainerRef.current;
+    const lastBubble = chatbotConversation.lastChild;
 
     const adjustScroll = () => {
-      chatbotConversation.scrollTop = chatbotConversation.scrollHeight;
+      if (
+        lastBubble &&
+        lastBubble.offsetHeight > chatbotConversation.offsetHeight
+      ) {
+        chatbotConversation.scrollTop = lastBubble.offsetTop - 20; // 20px från toppen
+      } else {
+        chatbotConversation.scrollTop = chatbotConversation.scrollHeight;
+      }
     };
 
-    adjustScroll();
-
-}, [convHistory, isSubmitting]);
-
+    setTimeout(adjustScroll, 50);
+  }, [convHistory, isSubmitting]);
 
   // useEffect(() => {
   //   const chatbotConversation = chatContainerRef.current;
