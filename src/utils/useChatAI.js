@@ -15,7 +15,11 @@ import { standaloneQuestionPrompt, answerPrompt } from "./prompts";
 export function useChatAI() {
   const [convHistory, setConvHistory] = useState([]);
   const openAIApiKey = import.meta.env.VITE_OPEN_AI_API_KEY;
-  const llm = new ChatOpenAI({ openAIApiKey });
+  const llm = new ChatOpenAI({
+    openAIApiKey: openAIApiKey,
+    modelName: "gpt-4",
+    temperature: 0.9,
+  });
 
   const standaloneQuestionChain = standaloneQuestionPrompt
     .pipe(llm)

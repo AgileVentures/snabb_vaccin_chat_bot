@@ -49,25 +49,6 @@ const Chatbot = () => {
     setTimeout(adjustScroll, 50);
   }, [convHistory, isSubmitting]);
 
-  // useEffect(() => {
-  //   const chatbotConversation = chatContainerRef.current;
-  //   const lastBubble = chatbotConversation.lastChild;
-
-  //   const adjustScroll = () => {
-  //     if (
-  //       lastBubble &&
-  //       lastBubble.offsetHeight > chatbotConversation.offsetHeight
-  //     ) {
-  //       chatbotConversation.scrollTop = lastBubble.offsetTop - 20; // 20px från toppen
-  //     } else {
-  //       chatbotConversation.scrollTop = chatbotConversation.scrollHeight;
-  //     }
-  //   };
-
-  //   // Add a slight delay before adjusting the scroll position
-  //   setTimeout(adjustScroll, 50); // 50ms should be enough, but you can adjust as needed
-  // }, [convHistory, isSubmitting]);
-
   function adjustTextareaHeight(textarea) {
     textarea.style.height = "auto"; // Reset height to auto
     textarea.style.height = textarea.scrollHeight + "px"; // Set to scroll height
@@ -132,7 +113,7 @@ const Chatbot = () => {
         {convHistory && (
           <div className="ai-notice">
             Svar från AI-bot bör alltid kontrolleras. Uppsök en läkare för
-            videre vägledning innan du påbörjar en beahandling.
+            vidare vägledning innan du påbörjar en beahandling.
           </div>
         )}
       </section>
