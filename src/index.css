@@ -1,10 +1,4 @@
-.vaccin_bot {
-  all: initial !important;
-  * {
-    all: unset !important;
-  }
-  /* Add other elements you want to explicitly style or reset */
-}
+
 :root {
   --border-rad-lg: 15px;
   --text-color: #242323;
